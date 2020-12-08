@@ -1,0 +1,5 @@
+// ------------ Atom ignores ---------
+.tags*
+
+// ----------- MacOS ignores ----------
+*.DS_Store
